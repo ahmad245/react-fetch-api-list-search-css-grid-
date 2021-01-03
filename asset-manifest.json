@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-fetch-api-list-search-css-grid-/static/css/main.4b45b39c.chunk.css",
+    "main.js": "/react-fetch-api-list-search-css-grid-/static/js/main.ea3e54b9.chunk.js",
+    "main.js.map": "/react-fetch-api-list-search-css-grid-/static/js/main.ea3e54b9.chunk.js.map",
+    "runtime-main.js": "/react-fetch-api-list-search-css-grid-/static/js/runtime-main.670d97ec.js",
+    "runtime-main.js.map": "/react-fetch-api-list-search-css-grid-/static/js/runtime-main.670d97ec.js.map",
+    "static/js/2.0bee9fd9.chunk.js": "/react-fetch-api-list-search-css-grid-/static/js/2.0bee9fd9.chunk.js",
+    "static/js/2.0bee9fd9.chunk.js.map": "/react-fetch-api-list-search-css-grid-/static/js/2.0bee9fd9.chunk.js.map",
+    "static/js/3.9449eb73.chunk.js": "/react-fetch-api-list-search-css-grid-/static/js/3.9449eb73.chunk.js",
+    "static/js/3.9449eb73.chunk.js.map": "/react-fetch-api-list-search-css-grid-/static/js/3.9449eb73.chunk.js.map",
+    "index.html": "/react-fetch-api-list-search-css-grid-/index.html",
+    "static/css/main.4b45b39c.chunk.css.map": "/react-fetch-api-list-search-css-grid-/static/css/main.4b45b39c.chunk.css.map",
+    "static/js/2.0bee9fd9.chunk.js.LICENSE.txt": "/react-fetch-api-list-search-css-grid-/static/js/2.0bee9fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670d97ec.js",
+    "static/js/2.0bee9fd9.chunk.js",
+    "static/css/main.4b45b39c.chunk.css",
+    "static/js/main.ea3e54b9.chunk.js"
+  ]
+}
